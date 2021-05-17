@@ -18,6 +18,24 @@
     color:rgb(77, 28, 212);
     font-size:1.7em;
 }
+.titulo5{
+    color:rgb(211, 24, 24);
+    font-size:3em;
+    text-shadow: 3px 0px 3px red;
+   align-items: center;
+}
+.titulo6{
+    color:maroon;
+    font-size:3.4em;
+}
+.titulo7{
+    color:rgb(54, 48, 48);
+    font-size:4em;
+}
+.titulo8{
+    color:black;
+    font-size:3.7em;
+}
 
 .tarjeta{
     width: 30em;
